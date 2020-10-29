@@ -1,0 +1,19 @@
+.nav {
+    width: 100%;
+    background-color: royalblue;
+
+    &__list {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+    }
+    &__item {
+        padding: 10px 20px;
+    }
+
+    &__link {
+        text-decoration: none;
+        font-size: 25px;
+        color: white;
+    }
+}

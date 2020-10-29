@@ -1,0 +1,15 @@
+.nav {
+  width: 100%;
+  background-color: royalblue; }
+  .nav__list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around; }
+  .nav__item {
+    padding: 10px 20px; }
+  .nav__link {
+    text-decoration: none;
+    font-size: 25px;
+    color: white; }
+
+/*# sourceMappingURL=nav.css.map */

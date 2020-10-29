@@ -1,0 +1,26 @@
+section {
+    width: 80%;
+    background-color: violet;
+    display: flex;
+}
+
+.article1 {
+    width: 50%;
+    padding: 20px 50px;
+}
+
+.article2 {
+    width: 50%;
+    padding: 20px 50px;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+}
+
+aside {
+    width: 20%;
+    background-color: turquoise;
+    padding: 20px 30px;
+}
